@@ -1,0 +1,559 @@
+(huntress) don007@DESKTOP-18F0S8N:/mnt/c/Users/User/Desktop/HUNTRESS$ pip install -r requirements.txt
+Requirement already satisfied: numpy>=1.20.3 in /home/don007/anaconda3/lib/python3.7/site-packages (from -r requirements.txt (line 1)) (1.21.6)
+Requirement already satisfied: pandas in /home/don007/anaconda3/lib/python3.7/site-packages (from -r requirements.txt (line 2)) (1.1.5)
+Requirement already satisfied: pytz>=2017.2 in /home/don007/anaconda3/lib/python3.7/site-packages (from pandas->-r requirements.txt (line 2)) (2018.5)
+Requirement already satisfied: python-dateutil>=2.7.3 in /home/don007/anaconda3/lib/python3.7/site-packages (from pandas->-r requirements.txt (line 2)) (2.7.3)
+Requirement already satisfied: six>=1.5 in /home/don007/anaconda3/lib/python3.7/site-packages (from python-dateutil>=2.7.3->pandas->-r requirements.txt (line 2)) (1.11.0)
+(huntress) don007@DESKTOP-18F0S8N:/mnt/c/Users/User/Desktop/HUNTRESS$ python Test.py
+Demo.SC
+13
+An instance of auto tune has started... 0
+An instance of auto tune has started... 1
+An instance of auto tune has started... 2
+An instance of auto tune has started... 3
+An instance of auto tune has started... 4
+An instance of auto tune has started... 5
+An instance of auto tune has started... 6
+An instance of auto tune has started... 7
+An instance of auto tune has started... 8
+An instance of auto tune has started... 9
+An instance of auto tune has started... 12
+An instance of auto tune has started... 10
+An instance of auto tune has started... 14
+An instance of auto tune has started... 15
+An instance of auto tune has started... 13
+An instance of auto tune has started... 11
+3 19 0.4
+6 39 0.3
+15 97 0.4
+12 79 0.1
+0 1 0.1
+11 71 0.4
+4 27 0.1
+14 91 0.3
+2 13 0.3
+7 45 0.4
+1 7 0.2
+13 85 0.2
+9 59 0.2
+10 65 0.3
+5 33 0.2
+8 53 0.1
+6 39 0.4
+3 21 0.1
+15 99 0.1
+12 79 0.2
+2 13 0.4
+11 73 0.1
+0 1 0.2
+14 91 0.4
+7 47 0.1
+1 7 0.3
+4 27 0.2
+9 59 0.3
+13 85 0.3
+10 65 0.4
+8 53 0.2
+5 33 0.3
+6 41 0.1
+3 21 0.2
+15 99 0.2
+12 79 0.3
+11 73 0.2
+2 15 0.1
+14 93 0.1
+7 47 0.2
+0 1 0.3
+9 59 0.4
+13 85 0.4
+4 27 0.3
+10 67 0.1
+1 7 0.4
+5 33 0.4
+8 53 0.3
+6 41 0.2
+3 21 0.3
+15 99 0.3
+12 79 0.4
+11 73 0.3
+0 1 0.4
+14 93 0.2
+4 27 0.4
+7 47 0.3
+13 87 0.1
+9 61 0.1
+10 67 0.2
+2 15 0.2
+1 9 0.1
+8 53 0.4
+5 35 0.1
+3 21 0.4
+6 41 0.3
+15 99 0.4
+15 th process finished False 99 0.1
+12 81 0.1
+11 73 0.4
+7 47 0.4
+0 3 0.1
+14 93 0.3
+4 29 0.1
+9 61 0.2
+13 87 0.2
+10 67 0.3
+2 15 0.3
+1 9 0.2
+8 55 0.1
+5 35 0.2
+6 41 0.4
+3 23 0.1
+12 81 0.2
+14 93 0.4
+0 3 0.2
+11 75 0.1
+4 29 0.2
+7 49 0.1
+10 67 0.4
+9 61 0.3
+13 87 0.3
+2 15 0.4
+1 9 0.3
+5 35 0.3
+8 55 0.2
+6 43 0.1
+3 23 0.2
+12 81 0.3
+0 3 0.3
+14 95 0.1
+4 29 0.3
+7 49 0.2
+11 75 0.2
+13 87 0.4
+9 61 0.4
+10 69 0.1
+2 17 0.1
+1 9 0.4
+5 35 0.4
+8 55 0.3
+3 23 0.3
+6 43 0.2
+12 81 0.4
+0 3 0.4
+4 29 0.4
+14 95 0.2
+10 69 0.2
+7 49 0.3
+11 75 0.3
+13 89 0.1
+9 63 0.1
+2 17 0.2
+5 37 0.1
+1 11 0.1
+8 55 0.4
+3 23 0.4
+6 43 0.3
+12 83 0.1
+0 5 0.1
+4 31 0.1
+7 49 0.4
+14 95 0.3
+13 89 0.2
+10 69 0.3
+11 75 0.4
+9 63 0.2
+2 17 0.3
+5 37 0.2
+1 11 0.2
+8 57 0.1
+6 43 0.4
+3 25 0.1
+12 83 0.2
+0 5 0.2
+4 31 0.2
+14 95 0.4
+7 51 0.1
+13 89 0.3
+10 69 0.4
+11 77 0.1
+9 63 0.3
+2 17 0.4
+5 37 0.3
+1 11 0.3
+8 57 0.2
+6 45 0.1
+12 83 0.3
+0 5 0.3
+3 25 0.2
+4 31 0.3
+14 97 0.1
+7 51 0.2
+13 89 0.4
+11 77 0.2
+10 71 0.1
+9 63 0.4
+2 19 0.1
+5 37 0.4
+1 11 0.4
+8 57 0.3
+6 45 0.2
+3 25 0.3
+12 83 0.4
+0 5 0.4
+14 97 0.2
+4 31 0.4
+7 51 0.3
+13 91 0.1
+10 71 0.2
+11 77 0.3
+9 65 0.1
+2 19 0.2
+5 39 0.1
+1 13 0.1
+8 57 0.4
+6 45 0.3
+6 th process finished False 39 0.3
+12 85 0.1
+12 th process finished False 79 0.1
+3 25 0.4
+3 th process finished False 23 0.1
+4 33 0.1
+4 th process finished False 27 0.1
+0 7 0.1
+0 th process finished False 7 0.1
+14 97 0.3
+14 th process finished False 91 0.3
+13 91 0.2
+13 th process finished False 85 0.2
+7 51 0.4
+7 th process finished False 47 0.1
+10 71 0.3
+10 th process finished False 65 0.3
+9 65 0.2
+9 th process finished False 59 0.2
+11 77 0.4
+11 th process finished False 73 0.1
+5 39 0.2
+5 th process finished False 33 0.2
+2 19 0.3
+2 th process finished False 19 0.1
+1 13 0.2
+1 th process finished False 13 0.1
+8 59 0.1
+8 th process finished False 53 0.1
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+closed True
+17.844403743743896
+ 1->0 :  0  0->1 :  67  NA->1 :  403
+0
+Postprocessed 1->0 :  0  0->1 :  60  NA->1 :  419
+Post processing time :  0.21178698539733887
+Test PASSED ...
+(huntress) don007@DESKTOP-18F0S8N:/mnt/c/Users/User/Desktop/HUNTRESS$ python HUNTRESS.py --i "Demo.SC" --o "Demo_reconstructed"
+Demo.SC
+13
+An instance of auto tune has started... 0
+An instance of auto tune has started... 1
+An instance of auto tune has started... 2
+An instance of auto tune has started... 3
+An instance of auto tune has started... 4
+An instance of auto tune has started... 5
+An instance of auto tune has started... 6
+An instance of auto tune has started... 8
+An instance of auto tune has started... 7
+An instance of auto tune has started... 9
+An instance of auto tune has started... 12
+An instance of auto tune has started... 10
+An instance of auto tune has started... 15
+An instance of auto tune has started... 14
+An instance of auto tune has started... 13
+An instance of auto tune has started... 11
+7 45 0.4
+1 7 0.2
+0 1 0.1
+3 19 0.4
+14 91 0.3
+4 27 0.1
+11 71 0.4
+10 65 0.3
+2 13 0.3
+5 33 0.2
+6 39 0.3
+9 59 0.2
+13 85 0.2
+15 97 0.4
+8 53 0.1
+12 79 0.1
+3 21 0.1
+1 7 0.3
+2 13 0.4
+7 47 0.1
+0 1 0.2
+11 73 0.1
+10 65 0.4
+4 27 0.2
+14 91 0.4
+13 85 0.3
+6 39 0.4
+9 59 0.3
+5 33 0.3
+15 99 0.1
+8 53 0.2
+12 79 0.2
+3 21 0.2
+1 7 0.4
+2 15 0.1
+0 1 0.3
+11 73 0.2
+7 47 0.2
+13 85 0.4
+14 93 0.1
+5 33 0.4
+4 27 0.3
+10 67 0.1
+15 99 0.2
+9 59 0.4
+8 53 0.3
+12 79 0.3
+6 41 0.1
+3 21 0.3
+1 9 0.1
+0 1 0.4
+2 15 0.2
+7 47 0.3
+11 73 0.3
+13 87 0.1
+14 93 0.2
+5 35 0.1
+15 99 0.3
+8 53 0.4
+12 79 0.4
+4 27 0.4
+10 67 0.2
+9 61 0.1
+6 41 0.2
+3 21 0.4
+2 15 0.3
+11 73 0.4
+1 9 0.2
+0 3 0.1
+5 35 0.2
+13 87 0.2
+7 47 0.4
+14 93 0.3
+15 99 0.4
+8 55 0.1
+15 th process finished False 99 0.1
+12 81 0.1
+4 29 0.1
+10 67 0.3
+9 61 0.2
+6 41 0.3
+3 23 0.1
+2 15 0.4
+5 35 0.3
+11 75 0.1
+1 9 0.3
+0 3 0.2
+13 87 0.3
+7 49 0.1
+12 81 0.2
+14 93 0.4
+8 55 0.2
+9 61 0.3
+4 29 0.2
+10 67 0.4
+6 41 0.4
+0 3 0.3
+3 23 0.2
+2 17 0.1
+5 35 0.4
+11 75 0.2
+13 87 0.4
+1 9 0.4
+12 81 0.3
+7 49 0.2
+8 55 0.3
+14 95 0.1
+9 61 0.4
+4 29 0.3
+10 69 0.1
+6 43 0.1
+0 3 0.4
+3 23 0.3
+5 37 0.1
+2 17 0.2
+11 75 0.3
+13 89 0.1
+1 11 0.1
+12 81 0.4
+7 49 0.3
+8 55 0.4
+14 95 0.2
+4 29 0.4
+9 63 0.1
+10 69 0.2
+6 43 0.2
+0 5 0.1
+3 23 0.4
+2 17 0.3
+5 37 0.2
+11 75 0.4
+13 89 0.2
+1 11 0.2
+12 83 0.1
+7 49 0.4
+8 57 0.1
+14 95 0.3
+4 31 0.1
+10 69 0.3
+9 63 0.2
+6 43 0.3
+0 5 0.2
+3 25 0.1
+2 17 0.4
+11 77 0.1
+5 37 0.3
+13 89 0.3
+1 11 0.3
+12 83 0.2
+7 51 0.1
+8 57 0.2
+14 95 0.4
+4 31 0.2
+10 69 0.4
+9 63 0.3
+6 43 0.4
+0 5 0.3
+3 25 0.2
+2 19 0.1
+13 89 0.4
+11 77 0.2
+5 37 0.4
+1 11 0.4
+7 51 0.2
+12 83 0.3
+8 57 0.3
+14 97 0.1
+4 31 0.3
+10 71 0.1
+9 63 0.4
+6 45 0.1
+0 5 0.4
+3 25 0.3
+2 19 0.2
+11 77 0.3
+13 91 0.1
+5 39 0.1
+1 13 0.1
+12 83 0.4
+7 51 0.3
+8 57 0.4
+14 97 0.2
+4 31 0.4
+10 71 0.2
+9 65 0.1
+6 45 0.2
+0 7 0.1
+0 th process finished False 7 0.1
+3 25 0.4
+3 th process finished False 23 0.1
+2 19 0.3
+2 th process finished False 19 0.1
+11 77 0.4
+11 th process finished False 73 0.1
+13 91 0.2
+13 th process finished False 85 0.2
+7 51 0.4
+7 th process finished False 47 0.1
+1 13 0.2
+1 th process finished False 13 0.1
+5 39 0.2
+5 th process finished False 33 0.2
+12 85 0.1
+12 th process finished False 79 0.1
+8 59 0.1
+8 th process finished False 53 0.1
+4 33 0.1
+4 th process finished False 27 0.1
+14 97 0.3
+14 th process finished False 91 0.3
+10 71 0.3
+10 th process finished False 65 0.3
+9 65 0.2
+9 th process finished False 59 0.2
+6 45 0.3
+6 th process finished False 39 0.3
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+ Reading the queue ...
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+67
+closed True
+18.667584657669067
+ 1->0 :  0  0->1 :  67  NA->1 :  403
+0
+Postprocessed 1->0 :  0  0->1 :  60  NA->1 :  419
+Post processing time :  0.2406327724456787
+(huntress) don007@DESKTOP-18F0S8N:/mnt/c/Users/User/Desktop/HUNTRESS$ python Visualize.py 
+<IPython.core.display.Image object>
+tree.nodes: [24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+tree.edges: [(24, 23), (24, 22), (24, 20), (23, 16), (23, 8), (22, 21), (21, 17), (20, 19), (19, 18), (18, 14), (17, 15), (16, 12), (15, 13), (14, 11), (13, 4), (12, 9), (11, 10), (10, 5), (9, 3), (8, 7), (7, 6), (6, 2), (3, 1), (3, 0)]
+<class 'networkx.classes.digraph.DiGraph'>
+<IPython.core.display.Image object>
+<class 'NoneType'>
+(huntress) don007@DESKTOP-18F0S8N:/mnt/c/Users/User/Desktop/HUNTRESS$ 
